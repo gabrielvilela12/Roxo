@@ -1,0 +1,13 @@
+C:\Users\leonardo.dleal\source\repos\Fear\bin\Debug\Fear.exe.config
+C:\Users\leonardo.dleal\source\repos\Fear\bin\Debug\Fear.exe
+C:\Users\leonardo.dleal\source\repos\Fear\bin\Debug\Fear.pdb
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.csproj.AssemblyReference.cache
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.frm_cliente.resources
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.frm_importacao.resources
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.frm_Login.resources
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.Properties.Resources.resources
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.csproj.GenerateResource.cache
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.exe
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\Fear.pdb
+C:\Users\leonardo.dleal\source\repos\Fear\obj\Debug\AppToDo.frm_Login.resources
